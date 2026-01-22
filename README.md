@@ -9,11 +9,11 @@ My first SEN Python assignment - Introduction to Programming
 - Department: Computer Science
 - Course: SEN 201
 
-## 📖 About This Project
+## About This Project
 
 This repository contains my first assignment for SEN 201 (Introduction to Software Engineering/Programming). The project demonstrates fundamental Python programming concepts including basic syntax, output operations, and version control using Git and GitHub.
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 First-SEN-201-Assignment-/
@@ -22,7 +22,7 @@ First-SEN-201-Assignment-/
 └── hello_world.py      # Main Python program
 ```
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -53,7 +53,7 @@ Or on some systems:
 python3 hello_world.py
 ```
 
-## 💻 What I Learned
+##  What I Learned
 
 Through this assignment, I gained hands-on experience with:
 
@@ -64,13 +64,13 @@ Through this assignment, I gained hands-on experience with:
 - Writing clear documentation with README files
 - Basic version control concepts
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python 3.x** - Programming language
 - Git - Version control
 - GitHub - Code hosting platform
 
-## 📝 Assignment Requirements
+##  Assignment Requirements
 
 This assignment demonstrates my ability to:
 - Set up a Python development environment
@@ -78,18 +78,12 @@ This assignment demonstrates my ability to:
 - Use Git for version control
 - Create proper documentation
 
-## 📧 Contact
+##  Contact
 
 **Chuks Ozioma**
 - GitHub: [@Chuksleanna](https://github.com/Chuksleanna)
 - Department: Computer Science
 
-## 📄 License
+## License
 
 This project is created for educational purposes as part of SEN 201 coursework.
-
----
-
-⭐ If you found this helpful, please consider giving it a star!
-
-*Last Updated: January 2026*
